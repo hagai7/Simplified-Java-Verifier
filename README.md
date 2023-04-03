@@ -12,4 +12,4 @@ the program contain 3 packages:
 main - includes the main verifier file.
 parsing - includes the files responsible for parsing the input file.
 scope - includes the files responsible checking if the scope is legally built in terms of its syntax and the variables in it.
-tests - includes Sjava program 
+tests - includes Sjava programs with valid or invalid syntax.
