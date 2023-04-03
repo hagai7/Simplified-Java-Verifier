@@ -1,0 +1,2 @@
+//illegal declarations (should be in separate lines)
+int a; int b;

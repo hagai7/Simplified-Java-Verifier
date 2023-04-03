@@ -1,0 +1,16 @@
+//complicated long legal code
+
+final boolean k = true;
+int w=1;
+int z;
+void luzi (boolean a, String b) {
+    z=g;
+    boolean zz = 3;
+    if (true) {
+        while(k || false) {
+        }
+    }
+    return;
+}
+
+int g = 3;

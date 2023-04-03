@@ -1,0 +1,8 @@
+//invalid return
+
+void foo(){
+    if (true){
+        return 5;
+    }
+}
+

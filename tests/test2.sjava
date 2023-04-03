@@ -1,0 +1,7 @@
+//assign double with int and boolean with int and double
+
+int x = 3;
+double y = x;
+boolean z = x;
+z = y;
+

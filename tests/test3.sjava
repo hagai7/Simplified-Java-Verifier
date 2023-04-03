@@ -1,0 +1,6 @@
+//assign global variable in local scope
+int z;
+void luzi (int g) {
+    z=3;
+    return;
+}

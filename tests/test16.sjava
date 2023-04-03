@@ -1,0 +1,2 @@
+//declare 2 variables in same line
+int n, m = 12;

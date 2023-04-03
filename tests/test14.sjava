@@ -1,0 +1,13 @@
+// calling method inside global scope
+foo(true);
+void foo(boolean a){
+    int b = 1;
+    while (a){
+        int b = 2;
+        if (a) {
+            int a = false;
+            int b;
+        }
+    }
+    return;
+}

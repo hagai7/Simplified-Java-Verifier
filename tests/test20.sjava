@@ -1,0 +1,6 @@
+//missing one bracket
+void foo(){
+    if (true){
+        while (false){
+        }
+}

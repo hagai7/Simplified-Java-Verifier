@@ -1,0 +1,3 @@
+//declaration not encapsulated in a single line
+int a =
+5;

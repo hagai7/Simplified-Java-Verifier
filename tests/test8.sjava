@@ -1,0 +1,7 @@
+//complicated boolean expressions
+void foo(boolean b){
+    if (true || true && b){
+        b = false;
+    }
+    return;
+}

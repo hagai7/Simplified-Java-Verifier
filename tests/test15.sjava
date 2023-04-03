@@ -1,0 +1,7 @@
+//assign variable out of its scope
+void foo(){
+    int b = 1;
+    return;
+}
+
+b = 4;

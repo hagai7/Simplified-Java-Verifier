@@ -1,0 +1,6 @@
+//no return statement
+void foo(){
+}
+
+
+
