@@ -4,7 +4,7 @@ Sjava (Simplified Java) is a subset of Java programming language with a simpler 
 The program recieves an input of Sjava file and returns:<br />
 - 0 - if the code is legal.
 - 1 - if the code is illegal.
-- 2 - in case of IO errors (see errors).  
+- 2 - in case of IO errors.  
 
 **Files:**<br />
 The program contain 3 packages written in Java:<br />
