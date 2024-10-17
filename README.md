@@ -2,9 +2,9 @@
 **Description:**<br />
 Sjava (Simplified Java) is a subset of Java programming language with a simpler syntax and reduced set of features. The verifier checks if a Java class file conforms to the format and rules specified by the subset. 
 The program recieves an input of Sjava file and returns:<br />
-- 0 – if the code is legal.
-- 1 – if the code is illegal.
-- 2 – in case of IO errors (see errors).  
+- 0 - if the code is legal.
+- 1 - if the code is illegal.
+- 2 - in case of IO errors (see errors).  
 
 **Files:**<br />
 The program contain 3 packages written in Java:<br />
