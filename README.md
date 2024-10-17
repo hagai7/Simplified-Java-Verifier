@@ -1,4 +1,4 @@
-# Simplified-Java-Verifier
+# Simplified Java Verifier
 **Description:**<br />
 Sjava (Simplified Java) is a subset of Java programming language with a simpler syntax and reduced set of features. The verifier checks if a Java class file conforms to the format and rules specified by the subset. 
 The program recieves an input of Sjava file and returns:<br />
