@@ -8,7 +8,7 @@ The program recieves an input of Sjava file and returns:<br />
 
 **Files:**<br />
 The program contain 3 packages written in Java:<br />
-- main - includes the main verifier file.<br />
-- parsing - includes the files responsible for parsing the input file and exception classes (also includes exception classes).<br />
-- scope - includes the files responsible checking if the scope is legally built in terms of its syntax and the variables in it (also includes exception classes).<br />
-- tests - includes input Sjava programs with valid or invalid syntax.<br />
+- `main` - includes the main verifier file.<br />
+- `parsing` - includes the files responsible for parsing the input file and input exception classes.<br />
+- `scope` - includes files that validate the syntax and structure of scopes within the code (also includes related exception classes)..<br />
+- `tests` - includes input exmaples of Sjava programs with valid or invalid syntax, for testing.<br />
